@@ -8,7 +8,7 @@
 
 <!-- Matrix-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data;I+love+turning+data+into+actionable+insights+%F0%9F%92%BB+%F0%9F%8F%A0" alt="Matrix typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data;Passionate+about+data-driven+problem+solving+and+insights.+%F0%9F%92%BB+%F0%9F%8F%A0" alt="Matrix typing animation" />
 </p>
 
 <!-- Subtitle with India flag -->
