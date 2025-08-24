@@ -1,4 +1,4 @@
-![logo](https://github.com/DeepaliSharma09/DeepaliSharma09/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hello World, Welcome to My Github 📊</h1>
 <h2 align="center">⚡ I'm Saumiyaa T K</h2>
 <h3 align="center">🚀 Aspiring Data Analyst | Passionate about turning data into actionable insights</h3>
@@ -14,8 +14,22 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deepali-sharma-8234b939?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepali-sharma-8234b939?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Technical Skills**
+
+**Programming** 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" width="40" height="40"/> <img src="https://matplotlib.org/_static/logo2.svg" width="40" height="40"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/>
+</p>
+
+**Databases**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-nosql-database-soft-fill-soft-fill-juicy-fish.png" width="40" height="40"/>
+</p>
+
+**Visualization & BI Tools**  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepalisharma09&show_icons=true&locale=en&layout=compact" alt="deepalisharma09" /></p>
 
