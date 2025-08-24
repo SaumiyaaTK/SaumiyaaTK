@@ -13,7 +13,8 @@
 
 <!-- Subtitle with India flag -->
 <h3 align="center">
-  Data Analyst • Business Analyst • Data Storyteller from India
+  Data Analyst • Business Analyst • Data Storyteller from India <https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png>
+
 
 <!-- Workspace image -->
 <p align="center">
