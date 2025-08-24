@@ -14,7 +14,7 @@
 <!-- Subtitle with India flag -->
 <h3 align="center">
   Data Analyst • Business Analyst • Data Storyteller from India 
-  <img src="<img width="512" height="512" alt="image" src="https://deshpee.com/wp-content/uploads/2022/04/blog_img_2021-05-03_10-20-42_SqzeANX78UfZhd4E.jpg" width="20" alt="India Flag">
+<img src="https://flagcdn.com/w40/in.png" width="20" alt="Germany Flag">
   
 <!-- Workspace image -->
 <p align="center">
