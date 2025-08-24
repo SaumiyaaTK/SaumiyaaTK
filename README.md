@@ -14,8 +14,6 @@
 <!-- Subtitle with India flag -->
 <h3 align="center">
   Data Analyst • Business Analyst • Data Storyteller from India
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeshpee.com%2Findian-national-flag-tiranga-design-meaning-history-facts-and-more%2F&psig=AOvVaw3oZmzcu6KDftOsapY2FkGp&ust=1756098662458000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjby7rXoo8DFQAAAAAdAAAAABAE" width="20" alt="India Flag">
-</h3>
 
 <!-- Workspace image -->
 <p align="center">
