@@ -28,14 +28,16 @@
 I'm a passionate data analyst focused on Business Intelligence solutions.  
 I love turning complex data into simple, impactful, and visually stunning dashboards.  
 Aspiring Data Analyst seeking to turn data into actionable insights. 
-</p>
+
+---
 
 ## 💼 Tools & Technologies
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-</p>
+
+--
 
 
 ### 📚 Libraries & Frameworks
