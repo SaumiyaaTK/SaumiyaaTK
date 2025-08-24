@@ -14,7 +14,8 @@
 <!-- Subtitle with India flag -->
 <h3 align="center">
   Data Analyst • Business Analyst • Data Storyteller from India
-  <img src="(https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20" alt="India Flag">
+  <img src="([![India Flag](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/240px-Flag_of_India.svg.png)](https://en.wikipedia.org/wiki/India)
+" width="20" alt="India Flag">
 </h3>
 
 <!-- Workspace image -->
