@@ -4,16 +4,16 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm Saumiyaa T K 🧠</h1>
+<h1 align="center"> Hello World, I'm Saumiyaa👩‍💻</h1>
 
 <!-- Matrix-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data;Passionate+about+data-driven+problem+solving+and+insights.+%F0%9F%92%BB+%F0%9F%8F%A0" alt="Matrix typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data;Turning+data+into+clarity+%F0%9F%92%BB+%F0%9F%8F%A0" alt="Matrix typing animation" />
 </p>
 
 <!-- Subtitle with India flag -->
 <h3 align="center">
-  Data Analyst • Power BI Enthusiast • Data Storyteller from India
+  Data Analyst • Business Analyst • Data Storyteller from India
   <img src="https://flagcdn.com/w40/de.png" width="20" alt="India Flag">
 </h3>
 
