@@ -15,6 +15,8 @@
 <h3 align="center">
   Data Analyst • Business Analyst • Data Storyteller from India 
 <img src="https://flagcdn.com/w40/in.png" width="20" alt="Germany Flag">
+
+---
   
 <!-- Workspace image -->
 <p align="center">
