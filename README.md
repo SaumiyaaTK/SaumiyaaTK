@@ -20,3 +20,15 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/>
 </p>
+## 🤝 Let’s Connect  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saumiyaa-t-k"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  <a href="mailto:saumiyaakannan@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/></a>
+  <a href="https://github.com/yourusername"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://saumiyaatk.my.canva.site/"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-portfolio-web-flaticons-lineal-color-flat-icons.png" width="40" height="40" alt="Portfolio"/></a>
+</p>  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaumiyaaTK&style=flat-square&color=blue)
