@@ -21,7 +21,7 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/tableau-software.png" width="40" height="40"/> <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/>
 </p>
 
-🤝 **Let’s Connect**  
+## **Let’s Connect** 🤝 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/saumiyaa-t-k"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
