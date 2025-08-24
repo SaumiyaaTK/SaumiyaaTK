@@ -92,7 +92,7 @@ I'm open to collaborating on data, automation, or visualization projects.
 > Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 😄
 
 ---
-## 🙏 Thanks for stopping by!
+## 🙏 Thanks for vi!
 
 If you like my work, feel free to ⭐ star this profile or reach out for collaboration.  
 Let’s build meaningful data solutions together! 🚀
