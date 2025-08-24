@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 # **Technical Skills**
-
+---
 **Programming** 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" width="40" height="40"/> <img src="https://matplotlib.org/_static/logo2.svg" width="40" height="40"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40"/>
