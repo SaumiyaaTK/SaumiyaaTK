@@ -82,7 +82,8 @@ Aspiring Data Analyst seeking to turn data into actionable insights.
 
 I'm open to collaborating on data, automation, or visualization projects.
 
-📩 Email: [saumiyaakannan@gmail.com](mailto:saumiyaakannan@gmail.com)  
+[Email](mailto:saumiyaakannan@gmail.com)
+[LinkedIn](https://linkedin.com/in/saumiyaa-t-k)  
 
 ---
 ## 🎯 Fun Fact
