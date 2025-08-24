@@ -90,9 +90,14 @@ I'm open to collaborating on data, automation, or visualization projects.
 > Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 😄
 
 ---
-## 🙏 Thanks for vi!
 
-If you like my work, feel free to ⭐ star this profile or reach out for collaboration.  
-Let’s build meaningful data solutions together! 🚀
+## 🚀 Thanks for stopping by!
+
+🙏 Thank you for taking the time to explore My GitHub profile.  
+If you found something useful, consider giving a star to support my work! ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaumiyaaTK&color=blue&style=flat-square)  
+![GitHub Followers](https://img.shields.io/github/followers/SaumiyaaTK?label=Follow&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 <p align="center"><em>© 2025 SaumiyaaTK</em></p>
