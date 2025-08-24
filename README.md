@@ -14,7 +14,7 @@
 <!-- Subtitle with India flag -->
 <h3 align="center">
   Data Analyst • Business Analyst • Data Storyteller from India 
-  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f0215f0f-1e57-4efb-8a0f-86d6af316076">" width="20" alt="India Flag">
+  <img src="<img width="512" height="512" alt="image" src="https://share.google/images/MXjO1D29zpNgmgnxP">" width="20" alt="India Flag">
 <!-- Workspace image -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" alt="Coding at desk" width="480"/>
