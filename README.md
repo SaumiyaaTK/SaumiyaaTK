@@ -1,11 +1,10 @@
-
 <h1 align="center">Hello World, Welcome to My Github 📊</h1>
 <h2 align="center">⚡ I'm Saumiyaa T K</h2>
 <h3 align="center">🚀 Aspiring Data Analyst | Passionate about turning data into actionable insights</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
- **Technical Skills**
+**Technical Skills**
 ---
 **Programming** 
 <p align="left">
