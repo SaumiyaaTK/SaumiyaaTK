@@ -41,10 +41,10 @@ Aspiring Data Analyst seeking to turn data into actionable insights.
 ### 📚 Libraries & Frameworks
 ## 🔧 Tools & Libraries  
 
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)](https://matplotlib.org/)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-%23008080.svg?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)]
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue)]
+[![Seaborn](https://img.shields.io/badge/Seaborn-%23008080.svg?style=for-the-badge&logo=python&logoColor=white)] 
 
 
 ### 🛠️ Tools
