@@ -8,7 +8,7 @@
 
 <!-- Matrix-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=I+love+Data;Turning+data+into+clarity+%F0%9F%92%BB" alt="Matrix typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Simplify+Complexity;Turning+raw+data+into+actionable+insights+%F0%9F%92%BB" alt="Matrix typing animation" />
 </p>
 
 <!-- Subtitle with India flag -->
@@ -31,32 +31,33 @@ Aspiring Data Analyst seeking to turn data into actionable insights.
 
 ---
 
-## 💼 Tools & Technologies
+## 💼 What I Do  
 
-### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+🔹 Build robust ETL pipelines that move and transform data at scale 🏗️  
+🔹 Automate data workflows using **Power Automate**, **Power Apps**, and Python 🤖  
+🔹 Create insightful dashboards using **Power BI** & **Excel** that tell compelling stories 📊  
+🔹 Work with structured data across **SQL**, **PySpark**, and **Microsoft Fabric** 🧠  
+🔹 Share practical knowledge with aspiring Data Analysts & Engineers through content 🚀  
 
+---
 
-### 📚 Libraries & Frameworks
-## 🔧 Tools & Libraries  
+## 🧠 My Current Tech Stack  
 
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=red)
-![Seaborn](https://img.shields.io/badge/Seaborn-%23008080.svg?style=for-the-badge&logo=python&logoColor=white)
+💻 **Languages:** Python | SQL | DAX  
+🧰 **Tools & Platforms:** Power BI | Power Automate | Power Apps | Excel | Microsoft Fabric | GitHub  
+🛠️ **Data Processing:** PySpark | Pandas | NumPy | ETL | Jupyter Notebooks  
+📂 **Databases:** MySQL | PostgreSQL | SQL Server  
+📦 **Other Skills:** Data Modeling | Data Cleaning | Workflow Automation | Data Visualization  
 
+---
 
-### 🛠️ Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🌟 A Little About Me  
 
+- 🔍 I see every dataset as a story waiting to be told  
+- 📈 Obsessed with simplifying complexity through automation  
+- ✍️ I create content that helps early-career data professionals level up  
+- 🧩 Always learning, always building
+- 
 ---
 
 ## 📈 GitHub Stats
