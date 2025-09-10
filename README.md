@@ -33,19 +33,17 @@ Aspiring Data Analyst seeking to turn data into actionable insights.
 
 ## 💼 What I Do  
 
-🔹 Build robust ETL pipelines that move and transform data at scale 🏗️  
-🔹 Automate data workflows using **Power Automate**, **Power Apps**, and Python 🤖  
-🔹 Create insightful dashboards using **Power BI** & **Excel** that tell compelling stories 📊  
-🔹 Work with structured data across **SQL**, **PySpark**, and **Microsoft Fabric** 🧠  
-🔹 Share practical knowledge with aspiring Data Analysts & Engineers through content 🚀  
+🔹 Build robust ETL pipelines that move and transform data at scale 🏗️    
+🔹 Create insightful dashboards using **Power BI**, **Tableau** & **Excel** that tell compelling stories 📊  
+🔹 Ready to Work with structured data across **SQL** and **Python** 🧠   
 
 ---
 
 ## 🧠 My Current Tech Stack  
 
 💻 **Languages:** Python | SQL | DAX  
-🧰 **Tools & Platforms:** Power BI | Power Automate | Power Apps | Excel | Microsoft Fabric | GitHub  
-🛠️ **Data Processing:** PySpark | Pandas | NumPy | ETL | Jupyter Notebooks  
+🧰 **Tools & Platforms:** Power BI | Tableau | Excel |  GitHub  
+🛠️ **Data Processing:** NumPy | Pandas| Matplotlib | Seaborn | ETL | Jupyter Notebooks  
 📂 **Databases:** MySQL | PostgreSQL | SQL Server  
 📦 **Other Skills:** Data Modeling | Data Cleaning | Workflow Automation | Data Visualization  
 
