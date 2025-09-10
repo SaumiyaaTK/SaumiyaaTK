@@ -58,19 +58,17 @@ Aspiring Data Analyst seeking to turn data into actionable insights.
 - 
 ---
 
-## 📈 GitHub Stats
+### 📊 Contribution Streak  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaumiyaaTK&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<!-- 📊 Tarjeta de resumen con eventos y curva de contribuciones -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaumiyaaTK&theme=tokyonight" alt="Profile Summary Card" width="820" />
+### 📈 Activity Graph  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&theme=radical)  
 
-## 🧰 Most Used Languages & Tools
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumiyaaTK&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" />
-</p>
+### 💻 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaumiyaaTK&layout=compact&theme=radical)
 
 ---
 
