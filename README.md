@@ -8,7 +8,7 @@
 
 <!-- Matrix-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Simplify+Complexity;Turning+raw+data+into+insights+%F0%9F%92%BB" alt="Matrix typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Simplifying+Complexity;Turning+raw+data+into+insights+%F0%9F%92%BB" alt="Matrix typing animation" />
 </p>
 
 <!-- Subtitle with India flag -->
@@ -43,7 +43,7 @@ Aspiring Data Analyst seeking to turn data into actionable insights.
 
 💻 **Languages:** Python | SQL | DAX  
 🧰 **Tools & Platforms:** Power BI | Tableau | Excel |  GitHub  
-🛠️ **Data Processing:** NumPy | Pandas| Matplotlib | Seaborn | ETL | Jupyter Notebooks  
+🛠️ **Data Processing:** NumPy | Pandas| Matplotlib | Seaborn | ETL | Jupyter Notebooks | Google colab 
 📂 **Databases:** MySQL | PostgreSQL | SQL Server  
 📦 **Other Skills:** Data Modeling | Data Cleaning | Workflow Automation | Data Visualization  
 
@@ -55,7 +55,7 @@ Aspiring Data Analyst seeking to turn data into actionable insights.
 - 📈 Obsessed with simplifying complexity through automation  
 - ✍️ I create content that helps early-career data professionals level up  
 - 🧩 Always learning, always building
-- 
+  
 ---
 
 ### 📊 Contribution Streak  
