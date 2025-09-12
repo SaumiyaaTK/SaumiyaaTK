@@ -103,7 +103,7 @@ Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visual
 I’m open to **collaborating on data, automation, or visualization projects** 🤝.  
 
 [![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](mailto:saumiyaakannan@gmail.com)  
-[![LinkedIn]("https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555")](https://linkedin.com/in/saumiyaa-t-k)
+[![LinkedIn]("https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin")](https://linkedin.com/in/saumiyaa-t-k)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)
 
 ---
