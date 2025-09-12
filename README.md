@@ -4,17 +4,17 @@
 </p>
 
 <!-- Header -->
-<h1 align="center"> Hello World, I'm Saumiyaa 👩‍💻</h1>
+<h1 align="center">🌎 Hello World, I'm <b>Saumiyaa</b> 👩‍💻✨</h1>
 
 <!-- Matrix-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Simplifying+Complexity;Turning+raw+data+into+insights+%F0%9F%92%BB" alt="Matrix typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Simplifying+Complexity;Turning+Raw+Data+into+Insights+💻;Building+Interactive+Dashboards+📊;Learning+%26+Growing+🚀" alt="Matrix typing animation" />
 </p>
 
 <!-- Subtitle with India flag -->
 <h3 align="center">
-  Data Analyst • Business Analyst • Data Storyteller from India  
-  <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag"> 
+  📊 Data Analyst • 📈 Business Analyst • 📖 Data Storyteller  
+  <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag"> From India
 </h3>
   
 <!-- Workspace image -->
@@ -22,78 +22,83 @@
   <img src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" alt="Coding at desk" width="480"/>
 </p>
 
+---
 
-## 🧠 About Me
+## 🧠 About Me  
 
-I'm a passionate data analyst focused on Business Intelligence solutions.  
-I love turning complex data into simple, impactful, and visually stunning dashboards.  
-Aspiring Data Analyst seeking to turn data into actionable insights. 
+🙋‍♀️ I’m a **passionate data analyst** who loves creating **business intelligence solutions**.  
+💡 I enjoy turning **complex data into actionable insights** through beautiful dashboards.  
+🚀 Aspiring to grow into a role where I can **simplify complexity** and **enable decision-making**.  
 
 ---
 
 ## 💼 What I Do  
 
-🔹 Build robust ETL pipelines that move and transform data at scale 🏗️    
-🔹 Create insightful dashboards using **Power BI**, **Tableau** & **Excel** that tell compelling stories 📊  
-🔹 Ready to Work with structured data across **SQL** and **Python** 🧠   
+🔹 Build robust **ETL pipelines** 🏗️  
+🔹 Design **interactive dashboards** with **Power BI**, **Tableau**, and **Excel** 📊  
+🔹 Analyze & process structured data using **SQL** + **Python** 🧠  
+🔹 Share insights through **storytelling with data** ✨  
 
 ---
 
-## 🧠 My Current Tech Stack  
+## 🛠️ My Tech Stack  
 
-💻 **Languages:** Python | SQL | DAX  
-🧰 **Tools & Platforms:** Power BI | Tableau | Excel |  GitHub  
-🛠️ **Data Processing:** NumPy | Pandas| Matplotlib | Seaborn | ETL | Jupyter Notebooks | Google colab 
-📂 **Databases:** MySQL | PostgreSQL | SQL Server  
-📦 **Other Skills:** Data Modeling | Data Cleaning | Workflow Automation | Data Visualization  
+💻 **Languages:** Python 🐍 | SQL 🗄️ | DAX 📊  
+🧰 **Tools & Platforms:** Power BI ⚡ | Tableau 📊 | Excel 📑 | GitHub 🐙  
+🛠️ **Data Processing:** NumPy 🔢 | Pandas 🐼 | Matplotlib 📈 | Seaborn 📊 | ETL ⚙️ | Jupyter 📓 | Google Colab ☁️  
+📂 **Databases:** MySQL 🐬 | PostgreSQL 🐘 | SQL Server 🏦  
+📦 **Other Skills:** Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visualization 🎨  
 
 ---
 
 ## 🌟 A Little About Me  
 
-- 🔍 I see every dataset as a story waiting to be told  
-- 📈 Obsessed with simplifying complexity through automation  
-- ✍️ I create content that helps early-career data professionals level up  
-- 🧩 Always learning, always building
-  
+- 🔍 I see every dataset as a **story waiting to be told** 📖  
+- 📈 Obsessed with **simplifying complexity** through automation ⚡  
+- ✍️ I create content that helps **early-career data professionals** 📚  
+- 🧩 Always **learning, exploring, and building** 🚀  
+
 ---
 
-### 📊 Contribution Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaumiyaaTK&theme=dark&hide_border=true)](https://git.io/streak-stats)
+## 📊 My GitHub Stats  
+
+### 🔥 Contribution Streak  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaumiyaaTK&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
 ### 📈 Activity Graph  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
-### 📈 GitHub Stats  
+### 🚀 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&theme=radical)  
 
 ### 💻 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaumiyaaTK&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaumiyaaTK&layout=compact&theme=radical)  
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Collaborate  
 
-I'm open to collaborating on data, automation, or visualization projects.
+I’m open to **collaborating on data, automation, or visualization projects** 🤝.  
 
-📩 Email: [saumiyaakannan@gmail.com](mailto:saumiyaakannan@gmail.com) \
-📈 Linkedin: [https://linkedin.com/in/saumiyaa-t-k](https://linkedin.com/in/saumiyaa-t-k)
-
----
-
-## 🎯 Fun Fact
-
-> Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 😄
+📩 Email: [saumiyaakannan@gmail.com](mailto:saumiyaakannan@gmail.com)  
+🌐 LinkedIn: [linkedin.com/in/saumiyaa-t-k](https://linkedin.com/in/saumiyaa-t-k)  
+💻 GitHub: [https://github.com/SaumiyaaTK](https://github.com/SaumiyaaTK)
 
 ---
 
-## 🚀 Thanks for stopping by!
+## 🎯 Fun Fact  
 
-🙏 Thank you for taking the time to explore My GitHub profile.  
-If you found something useful, consider giving a star to support my work! ⭐
+💡 Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 🎨😄  
+
+---
+
+## 🚀 Thanks for stopping by!  
+
+🙏 Thank you for visiting my profile 💖  
+If you found something useful, consider giving a ⭐ to support my work!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaumiyaaTK&color=blue&style=flat-square)  
 ![GitHub Followers](https://img.shields.io/github/followers/SaumiyaaTK?label=Follow&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
-<p align="center"><em>© 2025 SaumiyaaTK</em></p>
+<p align="center"><em>© 2025 SaumiyaaTK ✨</em></p>  
