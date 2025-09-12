@@ -1,3 +1,4 @@
+<div style="font-family:'Times New Roman', Times, serif;">
 <!-- Profile views top-right --> <p align="right">
 <img src="https://komarev.com/ghpvc/?username=SaumiyaaTK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
