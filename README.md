@@ -121,6 +121,30 @@ I’m open to **collaborating on data, automation, or visualization projects** �
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40" />
 </a>
 
+<!-- Gmail -->
+<a href="mailto:your@email.com" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" style="vertical-align:middle;"/>
+  <span style="background:#e74c3c;color:white;padding:6px 10px;border-radius:6px;font-family:Arial;font-weight:bold;">
+    SEND
+  </span>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/yourprofile" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" style="vertical-align:middle;"/>
+  <span style="background:#0077B5;color:white;padding:6px 10px;border-radius:6px;font-family:Arial;font-weight:bold;">
+    PROFILE
+  </span>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/yourusername" style="text-decoration:none;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" style="vertical-align:middle;"/>
+  <span style="background:#000000;color:white;padding:6px 10px;border-radius:6px;font-family:Arial;font-weight:bold;">
+    PROFILE
+  </span>
+</a>
+
 ---
 
 ## 🎯 Fun Fact  
