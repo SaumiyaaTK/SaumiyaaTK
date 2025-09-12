@@ -66,6 +66,22 @@ Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visual
 
 ---
 
+## 🏅 Certifications & Workshops  
+
+📜 I love to **keep learning and growing** 🚀 by attending **workshops, bootcamps, and certifications** to sharpen my data analytics skills.  
+
+[![View All Certificates 📜](https://img.shields.io/badge/View%20All%20Certificates-%F0%9F%93%9C-blue?style=for-the-badge)](Certifications/)
+
+- 🎓 You can explore **all My certificates & workshop achievements** here
+- Certifications → [🔗 View Certificate](Certifications/)  
+- 📊 **Tableau Data Visualization Workshop** → [🔗 View Certificate](Workshops/) 
+
+💡 Each certification helped me **level up** in:  
+✨ **Data Cleaning** 🧹 | **Visualization** 📊 | **Storytelling with Data** 📖  
+
+⚡ _Always exploring new tools, building dashboards, and unlocking insights from data!_ 🔑  
+
+
 ## 📊 My GitHub Stats  
 
 ### 🔥 Contribution Streak  
