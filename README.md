@@ -40,11 +40,20 @@
 
 ## 🛠️ My Tech Stack  
 
-💻 **Languages:** Python 🐍 | SQL 🗄️ | DAX 📊  
-🧰 **Tools & Platforms:** Power BI ⚡ | Tableau 📊 | Excel 📑 | GitHub 🐙  
-🛠️ **Data Processing:** NumPy 🔢 | Pandas 🐼 | Matplotlib 📈 | Seaborn 📊 | ETL ⚙️ | Jupyter 📓 | Google Colab ☁️  
-📂 **Databases:** MySQL 🐬 | PostgreSQL 🐘 | SQL Server 🏦  
-📦 **Other Skills:** Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visualization 🎨  
+💻 **Languages:** 
+Python 🐍 | SQL 🗄️ | DAX 📊  
+
+🧰 **Tools & Platforms:** 
+Power BI ⚡ | Tableau 📊 | Excel 📑 | GitHub 🐙  
+
+🛠️ **Data Processing:** 
+NumPy 🔢 | Pandas 🐼 | Matplotlib 📈 | Seaborn 📊 | ETL ⚙️ | Jupyter 📓 | Google Colab ☁️  
+
+📂 **Databases:** 
+MySQL 🐬 | PostgreSQL 🐘 | SQL Server 🏦  
+
+📦 **Other Skills:** 
+Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visualization 🎨  
 
 ---
 
