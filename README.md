@@ -105,10 +105,22 @@ Iâ€™m open to **collaborating on data, automation, or visualization projects** ð
 [![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](mailto:saumiyaakannan@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saumiyaa-t-k)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)
+
+<!-- Gmail -->
+<a href="mailto:your@email.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="40" />
+</a>
+
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" />
 </a>
+
+<!-- GitHub -->
+<a href="https://github.com/yourusername">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="40" />
+</a>
+
 
 
 ---
