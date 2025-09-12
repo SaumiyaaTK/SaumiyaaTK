@@ -31,6 +31,30 @@
 
 ## 🧠 About Me  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=🙋‍♀️+Passionate+Data+Analyst;💡+Turning+data+into+insights;🚀+Simplifying+complexity;📊+Creating+beautiful+dashboards" alt="About Me typing animation" />
+</p>
+
+<details>
+  <summary>✨ More About Me</summary>
+
+- 🎯 Skilled in:  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=sql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+- 🤝 Open to **collaborations** on analytics projects  
+- 🌱 Currently exploring **machine learning for business intelligence**  
+
+</details>
+
+## 🧠 About Me  
+
 🙋‍♀️ I’m a **passionate data analyst** who loves creating **business intelligence solutions**.  
 💡 I enjoy turning **complex data into actionable insights** through beautiful dashboards.  
 🚀 Aspiring to grow into a role where I can **simplify complexity** and **enable decision-making**.  
