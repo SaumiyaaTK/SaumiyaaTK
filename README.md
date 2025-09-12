@@ -1,5 +1,3 @@
-<div style="font-family:'Times New Roman', Times, serif;">
-
 <!-- Profile views top-right --> 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=SaumiyaaTK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -132,5 +130,3 @@ If you found something useful, consider giving a ⭐ to support my work!
 ![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
 <p align="center"><em>© 2025 SaumiyaaTK ✨</em></p>  
-
-</div>
