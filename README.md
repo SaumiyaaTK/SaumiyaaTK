@@ -31,12 +31,12 @@
 
 ## 🧠 About Me  
 
--🙋‍♀️ Hi, I'm a passionate Data Analyst.
--💡 I love turning complex data into actionable insights.
--🚀 Building interactive dashboards that tell stories.
--📊 Transforming numbers into meaningful visualizations.
--🌱 Always learning new tools & technologies.
--🤝 Open to collaborations on analytics projects. 
+!🙋‍♀️ Hi, I'm a passionate Data Analyst.
+!💡 I love turning complex data into actionable insights.
+!🚀 Building interactive dashboards that tell stories.
+!📊 Transforming numbers into meaningful visualizations.
+!🌱 Always learning new tools & technologies.
+!🤝 Open to collaborations on analytics projects. 
 
 ---
 
