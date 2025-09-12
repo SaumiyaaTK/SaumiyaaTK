@@ -70,7 +70,7 @@ Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visual
 
 ---
 
-## 🌟 A Little About Me  
+## 🌟 My Story 
 
 - 🔍 I see every dataset as a **story waiting to be told** 📖  
 - 📈 Obsessed with **simplifying complexity** through automation ⚡  
