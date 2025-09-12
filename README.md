@@ -107,21 +107,19 @@ Iâ€™m open to **collaborating on data, automation, or visualization projects** ð
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)
 
 <!-- Gmail -->
-<a href="mailto:your@email.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="40" />
+<a href="mailto:saumiyaakannan@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" />
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" />
+<a href="https://linkedin.com/in/saumiyaa-t-k">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="40" />
 </a>
 
 <!-- GitHub -->
-<a href="https://github.com/yourusername">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="40" />
+<a href="https://github.com/SaumiyaaTK">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40" />
 </a>
-
-
 
 ---
 
