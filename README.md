@@ -72,6 +72,9 @@ Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visual
 
 - 🎓 You can explore **all My certificates & workshop achievements** here
 - [![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-purple?style=for-the-badge&logo=read-the-docs)](./Certifications/)
+- [![Certificates 🎓](https://img.shields.io/badge/Certificates-%F0%9F%93%93-green?style=for-the-badge)](./Certifications/)
+[![Check Certificates 🏆](https://img.shields.io/badge/Check%20Certificates-%F0%9F%8F%86-orange?style=for-the-badge)](./Certifications/)
+
 
 [![View All Certificates 📜](https://img.shields.io/badge/View%20All%20Certificates-%F0%9F%93%9C-blue?style=for-the-badge)](Certifications/)
 [![Workshop Certificates 📜](https://img.shields.io/badge/View%20All%20Certificates-%F0%9F%93%9C-blue?style=for-the-badge)](Workshops/)
