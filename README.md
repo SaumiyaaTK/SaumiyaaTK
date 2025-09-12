@@ -103,47 +103,8 @@ Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visual
 I’m open to **collaborating on data, automation, or visualization projects** 🤝.  
 
 [![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](mailto:saumiyaakannan@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saumiyaa-t-k)  
+[![LinkedIn]("https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555")](https://linkedin.com/in/saumiyaa-t-k)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)
-
-<!-- Gmail -->
-<a href="mailto:saumiyaakannan@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" />
-</a>
-
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/saumiyaa-t-k">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="40" />
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/SaumiyaaTK">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40" />
-</a>
-
-<!-- Gmail -->
-<a href="mailto:your@email.com" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" style="vertical-align:middle;"/>
-  <span style="background:#e74c3c;color:white;padding:6px 10px;border-radius:6px;font-family:Arial;font-weight:bold;">
-    SEND
-  </span>
-</a>
-
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/yourprofile" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" style="vertical-align:middle;"/>
-  <span style="background:#0077B5;color:white;padding:6px 10px;border-radius:6px;font-family:Arial;font-weight:bold;">
-    PROFILE
-  </span>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/yourusername" style="text-decoration:none;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" style="vertical-align:middle;"/>
-  <span style="background:#000000;color:white;padding:6px 10px;border-radius:6px;font-family:Arial;font-weight:bold;">
-    PROFILE
-  </span>
-</a>
 
 ---
 
