@@ -1,13 +1,17 @@
 <div style="font-family:'Times New Roman', Times, serif;">
-<!-- Profile views top-right --> <p align="right">
-<img src="https://komarev.com/ghpvc/?username=SaumiyaaTK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+
+<!-- Profile views top-right --> 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=SaumiyaaTK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <!-- Header -->
 <h1 align="center"> Hello World, I'm Saumiyaa 👩‍💻</h1>
-<!-- Matrix-style animated intro --> 
 
+<!-- Matrix-style animated intro --> 
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Simplifying+Complexity;Turning+raw+data+into+insights+%F0%9F%92%BB" alt="Matrix typing animation" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Simplifying+Complexity;Turning+raw+data+into+insights+%F0%9F%92%BB" alt="Matrix typing animation" /> 
+</p>
 
 <!-- Subtitle with India flag -->
 <h3 align="center">
@@ -128,3 +132,5 @@ If you found something useful, consider giving a ⭐ to support my work!
 ![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
 <p align="center"><em>© 2025 SaumiyaaTK ✨</em></p>  
+
+</div>
