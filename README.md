@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ My Tech Stack  
+## 🛠️ My Toolbox  
 
 💻 **Languages:** 
 Python 🐍 | SQL 🗄️ | DAX 📊  
