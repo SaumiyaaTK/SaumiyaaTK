@@ -6,7 +6,6 @@
 <!-- Header -->
 <h1 align="center">🌎 Hello World, I'm <b>Saumiyaa</b> 👩‍💻✨</h1>
 
-<!-- Matrix-style animated intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Simplifying+Complexity;Turning+Raw+Data+into+Insights+💻;Building+Interactive+Dashboards+📊;Learning+%26+Growing+🚀" alt="Matrix typing animation" />
 </p>
