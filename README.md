@@ -38,13 +38,16 @@
 🌱 Always learning new tools & technologies  
 🤝 Open to collaborations on analytics projects  
 
+---
 
-## 💼 What I Do  
+## 🌟 Interests & Passions
 
-🔹 Build robust **ETL pipelines** 🏗️  
-🔹 Design **interactive dashboards** with **Power BI**, **Tableau**, and **Excel** 📊  
-🔹 Analyze & process structured data using **SQL** + **Python** 🧠  
-🔹 Share insights through **storytelling with data** ✨  
+🔍 **Data Analysis & Insight Discovery** – I love exploring datasets to uncover hidden patterns and trends that drive better decision-making.  
+🎨 **Dashboard Design & Visualization** – Creating intuitive, interactive dashboards that transform complex numbers into meaningful stories is my passion.  
+🤝 **Team Collaboration & Knowledge Sharing** – I enjoy working with cross-functional teams, sharing insights, and helping others grow through collaborative projects.  
+🌱 **Machine Learning & AI Exploration** – Continuously learning new tools, algorithms, and AI techniques to enhance data-driven solutions.  
+📊 **Business Intelligence & Strategy** – Leveraging data to guide business strategies and improve operational efficiency.  
+💡 **Continuous Learning & Problem Solving** – Always curious, I enjoy tackling challenging problems and discovering innovative solutions.  
 
 ---
 
