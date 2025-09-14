@@ -6,12 +6,9 @@
 <!-- Header -->
 <h1 align="center"> Hello World, I'm Saumiyaa 👩‍💻</h1>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20<Your%20Name>%20👋&fontSize=40)
-
-
 <!-- Purple-style animated intro -->
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Github+Profile" alt="Purple typing animation" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=🌟+Welcome+to+my+little+corner+of+GitHub;" alt="Purple typing animation" /> 
 </p>
 
 <!-- Matrix-style animated intro --> 
