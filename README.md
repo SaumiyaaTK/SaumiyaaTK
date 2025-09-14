@@ -5,6 +5,7 @@
 
 <!-- Header -->
 <h1 align="center"> Hello World, I'm Saumiyaa 👩‍💻</h1>
+
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-👩‍💻📊-purple?style=for-the-badge)
 
 <!-- Purple-style animated intro -->
