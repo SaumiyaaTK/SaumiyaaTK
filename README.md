@@ -28,6 +28,12 @@
 </p>
 
 ---
+## ⚡ Technologies I Use  
+
+<img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="40px" />  
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="60px"/>  
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60px"/>  
+
 
 ## 🧠 About Me
 
