@@ -160,4 +160,6 @@ If you found something useful, consider giving a ⭐ to support my work!
 ![GitHub Followers](https://img.shields.io/github/followers/SaumiyaaTK?label=Follow&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
+![Coding GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 <p align="center"><em>© 2025 SaumiyaaTK ✨</em></p>  
