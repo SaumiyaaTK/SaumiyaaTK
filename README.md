@@ -135,20 +135,9 @@
 I’m open to **collaborating on data, automation, or visualization projects** 🤝.  
 
 [![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](mailto:saumiyaakannan@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saumiyaa-t-k)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)
-
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_saumi.teddy_/)
-
-## 📬 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/) 
-[![Email](https://img.shields.io/badge/Email-YourEmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-
 
 ---
 
