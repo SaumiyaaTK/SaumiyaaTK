@@ -51,54 +51,41 @@
 
 ---
 
-## 🛠️ My Toolbox  
-
-💻 **Languages:** 
-Python 🐍 | SQL 🗄️ | DAX 📊  
-
-🧰 **Tools & Platforms:** 
-Power BI ⚡ | Tableau 📊 | Excel 📑 | GitHub 🐙  
-
-🛠️ **Data Processing:** 
-NumPy 🔢 | Pandas 🐼 | Matplotlib 📈 | Seaborn 📊 | ETL ⚙️ | Jupyter 📓 | Google Colab ☁️  
-
-📂 **Databases:** 
-MySQL 🐬 | PostgreSQL 🐘 | SQL Server 🏦  
-
-📦 **Other Skills:** 
-Data Modeling 🧩 | Data Cleaning 🧹 | Workflow Automation 🤖 | Data Visualization 🎨  
-## ⚡ Technologies I Use  
+## 🛠️ My Toolbox   
 
 ### 📝 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-ffc107?style=for-the-badge&logo=power-bi&logoColor=black)
 
+### 🐍 Programming & Libraries
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ### 🛠 Tools & Platforms
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🔄 Data Processing
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTggOCAwIDEgMCAwIDE2IDggOCAwIDAgMCAwLTE2em0wIDE0YTYgNiAwIDEgMSAwLTEyIDYgNiAwIDAgMSAwIDEyem0tMS05aDJ2NkgxMnoiLz48L3N2Zz4=)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 📦 Other Skills
+### 🔄 Data Processing & Workflow
+![ETL](https://img.shields.io/badge/ETL-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYTggOCAwIDEgMCAwIDE2IDggOCAwIDAgMCAwLTE2em0wIDE0YTYgNiAwIDEgMSAwLTEyIDYgNiAwIDAgMSAwIDEyem0tMS05aDJ2NkgxMnoiLz48L3N2Zz4=)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-8E44AD?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-27AE60?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-FF5733?style=for-the-badge&logo=airflow&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-DA4453?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
