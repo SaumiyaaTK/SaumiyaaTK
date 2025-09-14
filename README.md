@@ -1,6 +1,6 @@
 <!-- Profile views top-right --> 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=SaumiyaaTK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SaumiyaaTK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Header -->
@@ -101,7 +101,6 @@
 ## 🏅 Certifications & Workshops  
 
 📜 I love to **keep learning and growing** by attending **workshops, bootcamps, and certifications** to sharpen my data analytics skills. 📊 
-
 🎓 You can explore **All My certificates & workshop achievements** here 👇
 
 [![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-purple?style=for-the-badge&logo=read-the-docs)](Certifications/)
