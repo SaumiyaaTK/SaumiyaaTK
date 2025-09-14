@@ -53,9 +53,6 @@
 
 ## 🛠️ My Toolbox 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="30">
-
-
 ### 📝 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
