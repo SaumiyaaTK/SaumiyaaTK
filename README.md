@@ -6,8 +6,6 @@
 <!-- Header -->
 <h1 align="center"> Hello World, I'm Saumiyaa 👩‍💻</h1>
 
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-👩‍💻📊-purple?style=for-the-badge)
-
 <!-- Purple-style animated intro -->
 <p align="center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning+&+Growth;" alt="Purple typing animation" /> 
