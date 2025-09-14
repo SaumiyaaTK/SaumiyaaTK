@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center"> Hello World, I'm Saumiyaa 👩‍💻</h1>
+<h1 align="center"> Hello All, I'm Saumiyaa 👩‍💻</h1>
 
 <!-- Purple-style animated intro -->
 <p align="center"> 
