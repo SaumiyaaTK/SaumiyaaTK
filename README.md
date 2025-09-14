@@ -115,7 +115,7 @@
 
 ---
 
-## 📊 My GitHub Stats  
+## My GitHub Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 ### 🔥 Contribution Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaumiyaaTK&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
@@ -140,6 +140,9 @@ I’m open to **collaborating on data, automation, or visualization projects** �
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saumiyaa-t-k)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_saumi.teddy_)
+
 
 ---
 
