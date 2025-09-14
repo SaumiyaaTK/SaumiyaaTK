@@ -100,7 +100,7 @@
 
 ## 🏅 Certifications & Workshops  
 
-📜 I love to **keep learning and growing** 🚀 by attending **workshops, bootcamps, and certifications** to sharpen my data analytics skills. 📊 
+📜 I love to **keep learning and growing** by attending **workshops, bootcamps, and certifications** to sharpen my data analytics skills. 📊 
 
 🎓 You can explore **All My certificates & workshop achievements** here 👇
 
