@@ -117,7 +117,7 @@
 ## My GitHub Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 ### 🔥 Contribution Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SaumiyaaTK)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=octocat)](https://git.io/streak-stats)
 
 ### 📈 Activity Graph  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
