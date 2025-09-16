@@ -123,7 +123,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=505050&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Contribution Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=00000000&border=00000000&ring=00bfff&fire=00bfff&currStreakLabel=000000&sideNums=505050&currStreakNum=505050&sideLabels=000000&dates=505050)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=00000000&border=00000000&ring=00bfff&fire=00bfff&currStreakLabel=000000&sideLabels=000000&currStreakNum=505050&sideNums=505050&dates=505050)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=505050&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
