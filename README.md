@@ -8,7 +8,7 @@
 
 <!-- Purple-style animated intro -->
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning+&+Growth;" alt="Purple typing animation" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning+&+Growth;" alt="LightBlue typing animation" /> 
 </p>
 
 <!-- Matrix-style animated intro --> 
