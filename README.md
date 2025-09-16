@@ -116,19 +116,28 @@
 
 ## My GitHub Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
-<p align="center">
+<div align="center">
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" height="180" />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" height="180" />
+
+  <!-- Contribution Streak -->
   <img src="https://streak-stats.demolab.com?user=SaumiyaaTK&theme=vue&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
 
-<p align="center">
+</div>
+
+---
+
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
-<p align="center">
+---
+
+  <!-- Top Contributed Repo -->
   <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
 
 ---
 
