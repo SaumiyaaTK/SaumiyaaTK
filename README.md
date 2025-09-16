@@ -125,27 +125,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" height="180" />
 
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=SaumiyaaTK&theme=vue&hide_border=true" alt="GitHub Streak" height="180" />
-
+  ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+  
 </div>
 
 ---
-
-<div align="center">
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
+  
 ---
-
-<div align="center">
 
   <!-- Top Contributed Repo -->
   <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
-</div>
 
 ---
 
