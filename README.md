@@ -123,8 +123,12 @@
 ### 🔥 Contribution Streak  
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
+---
+
 ### 📈 Activity Graph  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&&limit=5&theme=flat&combine_all_yearly_contributions=true)
