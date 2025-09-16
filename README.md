@@ -117,19 +117,19 @@
 ## My GitHub Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 <!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&bg_color=00000000&title_color=000000&text_color=000000&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&bg_color=00000000&title_color=000000&text_color=808080&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=000000&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=808080&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Contribution Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=00000000&border=00000000&ring=00bfff&fire=00bfff&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=00000000&border=00000000&ring=00bfff&fire=00bfff&currStreakLabel=000000&sideNums=808080&currStreakNum=808080&sideLabels=000000&dates=808080)](https://git.io/streak-stats)
 
 <!-- Activity Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=000000&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=808080&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Top Contributed Repo -->
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=000000&icon_color=00bfff&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/LordDashMe/github-contributor-stats)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=808080&icon_color=00bfff&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/LordDashMe/github-contributor-stats)
 
 ---
 
