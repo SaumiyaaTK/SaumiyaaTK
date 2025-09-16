@@ -116,18 +116,15 @@
 
 ## My GitHub Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&bg_color=000000&title_color=00bfff&text_color=00bfff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00bfff&text_color=00bfff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- Contribution Streak -->
-  ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-purple?logo=github&style=for-the-badge)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=000000&border=000000&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideNums=00bfff&currStreakNum=00bfff&sideLabels=00bfff&dates=00bfff)](https://git.io/streak-stats)
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=000000&color=00bfff&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <!-- Top Contributed Repo -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+<img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=000000&title_color=00bfff&text_color=00bfff&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 ---
 
