@@ -116,15 +116,20 @@
 
 ## My GitHub Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&bg_color=000000&title_color=00bfff&text_color=00bfff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00bfff&text_color=00bfff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=000000&border=000000&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideNums=00bfff&currStreakNum=00bfff&sideLabels=00bfff&dates=00bfff)](https://git.io/streak-stats)
+<!-- Contribution Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=000000&border=000000&ring=00bfff&fire=00bfff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=000000&color=00bfff&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=000000&color=ffffff&line=00bfff&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=000000&title_color=00bfff&text_color=00bfff&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+<!-- Top Contributed Repo -->
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00bfff&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/LordDashMe/github-contributor-stats)
 
 ---
 
