@@ -129,12 +129,8 @@
 
 </div>
 
----
-
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-
----
 
   <!-- Top Contributed Repo -->
   <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
