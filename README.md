@@ -99,6 +99,7 @@
 📜 I love to **keep learning and growing** by attending **workshops, bootcamps, and certifications** to sharpen my data analytics skills. 📊  
 
 🎓 You can explore **All My certificates & workshop achievements** here 👇  
+
 [![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-purple?style=for-the-badge&logo=read-the-docs)](Certifications/)  
 [![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-purple?style=for-the-badge&logo=read-the-docs)](Workshop/)
 
@@ -114,8 +115,6 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaumiyaaTK&background=00000000&border=00000000&ring=9370DB&fire=9370DB&currStreakLabel=000000&sideNums=404040&currStreakNum=404040&sideLabels=000000&dates=606060)](https://git.io/streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=9370DB&point=9370DB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
