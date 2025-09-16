@@ -117,25 +117,20 @@
 ## My GitHub Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 ### 🔥 Contribution Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SaumiyaaTK)](https://git.io/streak-stats)
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+### 🚀 GitHub Stats  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+### 💻 Most Used Languages  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 ### 📈 Activity Graph  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
-### 🚀 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&theme=radical)  
-
-### 💻 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaumiyaaTK&layout=compact&theme=radical)  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
 ---
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
