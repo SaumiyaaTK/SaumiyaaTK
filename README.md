@@ -31,8 +31,6 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 🙋‍♀️ Hi, I'm a passionate Data Analyst
 - 💡 I love turning complex data into actionable insights
 - 🚀 Building interactive dashboards that tell stories
@@ -43,6 +41,7 @@
 ---
 
 ## 🌟 Interests & Passions
+
 - 🔍 **Data Analysis & Insight Discovery** – I love exploring datasets to uncover hidden patterns and trends that drive better decision-making.
 - 🎨 **Dashboard Design & Visualization** – Creating interactive dashboards that transform complex numbers into meaningful stories.
 - 🤝 **Team Collaboration & Knowledge Sharing** – I enjoy collaborating with teams and sharing insights to help others grow.
@@ -117,7 +116,7 @@
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-9370DB?logo=github&style=for-the-badge)
 
-![GitHub Stats]<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+![GitHub Stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
