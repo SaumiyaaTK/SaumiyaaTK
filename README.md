@@ -116,7 +116,7 @@
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-9370DB?logo=github&style=for-the-badge)
 
-![GitHub Stats]<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&locale=en&bg_color=00000000&title_color=000000&text_color=404040&icon_color=937)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
