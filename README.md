@@ -124,33 +124,6 @@
 
 [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&hide_border=true&combine_all_yearly_contributions=true)](https://github.com/LordDashMe/github-contributor-stats)
 
-<!-- Top Langs -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&hide_border=true"
-    alt="Top Languages"
-    style="border-radius:10px; border:1px solid rgba(0,0,0,0.2); padding:6px; display:block; max-width:100%;"
-  />
-</a>
-
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=9370DB&point=9370DB&area=true&hide_border=true"
-    alt="Activity Graph"
-    style="border-radius:10px; border:1px solid rgba(0,0,0,0.2); padding:6px; display:block; max-width:100%;"
-  />
-</a>
-
-<!-- Top Contributed Repo -->
-<a href="https://github.com/LordDashMe/github-contributor-stats">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&hide_border=true&combine_all_yearly_contributions=true"
-    alt="Top Contributed Repos"
-    style="border-radius:10px; border:1px solid rgba(0,0,0,0.2); padding:6px; display:block; max-width:100%;"
-  />
-</a>
-
 ---
 
 ## 🤝 Let’s Collaborate
