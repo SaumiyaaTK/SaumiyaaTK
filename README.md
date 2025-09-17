@@ -100,8 +100,8 @@
 
 🎓 You can explore **All My certificates & workshop achievements** here 👇  
 
-[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-E6E6FA?style=for-the-badge&logo=read-the-docs)](Certifications/)  
-[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-E6E6FA?style=for-the-badge&logo=read-the-docs)](Workshop/)
+[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Certifications/)  
+[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Workshop/)
 
 💡 Each certification helped me **level up** in:  
 ✨ **Data Cleaning** 🧹 | **Visualization** 📊 | **Storytelling with Data** 📖  
