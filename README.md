@@ -30,13 +30,14 @@
 ---
 
 ## 🧠 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 🙋‍♀️ Hi, I'm a passionate Data Analyst
 - 💡 I love turning complex data into actionable insights
 - 🚀 Building interactive dashboards that tell stories
 - 📊 Transforming numbers into meaningful visualizations
 - 🌱 Always learning new tools & technologies
 - 🤝 Open to collaborations on analytics projects
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ---
 
 ## 🌟 Interests & Passions
