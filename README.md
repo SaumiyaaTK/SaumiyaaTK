@@ -78,7 +78,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=7DDFDD&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=7DDFDD&rank_icon=github&token=PAT_1" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=7DDFDD&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=7DDFDD&hide_border=true&token=PAT_1" alt="Top Languages" />
     </td>
   </tr>
 </table>
