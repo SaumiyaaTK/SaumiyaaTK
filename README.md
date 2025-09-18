@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I’m **Saumiyaa**, a passionate **Data Analyst** who thrives on turning complex data into actionable insights.  
+I’m **Saumiyaa** ✨, a passionate **Data Analyst** 📊 who thrives on turning complex data into actionable insights.  
 I enjoy creating interactive dashboards and reports that transform numbers into meaningful stories for decision-making.  
 Skilled in **SQL, Python, Power BI, Tableau, and Excel**, I focus on uncovering patterns, trends, and KPIs that matter.  
 Always eager to learn new tools and technologies, I aim to leverage data to solve real-world problems and create impactful solutions.  
@@ -122,11 +122,11 @@ I’m open to **collaborating on data, automation, or visualization projects** �
 
 ## 🚀 Thanks for Stopping By!
 
-🙏 Thank you for visiting my profile 💖  
+Thank you for visiting my profile 💖  
 If you found something useful, consider giving a ⭐ to support my work!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaumiyaaTK&color=blue&style=flat-square)  
 ![GitHub Followers](https://img.shields.io/github/followers/SaumiyaaTK?label=Follow&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
-<p align="center"><em>© 2025 SaumiyaaTK ✨</em></p>
+<p align="center"><em>© 2025 SaumiyaaTK</em></p>
