@@ -130,3 +130,11 @@ If you found something useful, consider giving a ⭐ to support my work!
 ![GitHub Stars](https://img.shields.io/github/stars/SaumiyaaTK?affiliations=OWNER%2CCOLLABORATOR&style=social)  
 
 <p align="center"><em>© 2025 SaumiyaaTK</em></p>
+
+<p align="center">
+  <a href="https://pimp-my-readme-next.vercel.app">
+    <img src="https://raw.githubusercontent.com/gist/FuseFairy/985aa15b77de6dee554fec4bb488432b/raw/5b89693334fd36defc0867f4e243c4405d267ae2/pimp-my-readme-1.svg" alt="sliding-text"><br>
+    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/769ce411f10708b20ee06325b3d75c8e/raw/dbb60adc2f25eb687fc7d75d17836e28b31fed16/pimp-my-readme-2.svg" alt="wavy-banner"><br>
+    <img width=720 src="https://raw.githubusercontent.com/gist/FuseFairy/3adf6ec5f5f68e80c4b9c36b0645cf39/raw/dd3c10cf1ca28dff0a11aa6dd3b581f22e8981c0/pimp-my-readme-3.svg" alt="technology">
+  </a>
+</p>
