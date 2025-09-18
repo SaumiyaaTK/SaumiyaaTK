@@ -61,14 +61,14 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 
 📜 I continue to learn and grow through **workshops, bootcamps, and certifications** in data analytics.  
 
-[![All Certificates](https://img.shields.io/badge/All%20Certificates-9370DB?style=for-the-badge&logo=read-the-docs)](Certifications/)  
-[![Workshop Certificates](https://img.shields.io/badge/Workshop%20Certificates-9370DB?style=for-the-badge&logo=read-the-docs)](Workshop/)  
+[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Certifications/) 
+[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Workshop/)
 
 Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**  
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&rank_icon=github)
 
