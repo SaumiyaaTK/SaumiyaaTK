@@ -4,102 +4,71 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hello All, I'm Saumiyaa 👩‍💻</h1>
+<h1 align="center">Hello, I'm Saumiyaa</h1>
 
 <!-- Purple-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning+&+Growth;Turning+raw+data+into+insights" alt="LightBlue typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning+and+Growth;Turning+Raw+Data+into+Insights" alt="typing animation" />
 </p>
 
-<!-- Subtitle with India flag -->
+<!-- Subtitle -->
 <h3 align="center">
-  📊 Data Analyst • 📈 Business Analyst • 📖 Data Storyteller From India
-  <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">
+  Data Analyst • Business Analyst • Data Storyteller from India
+   <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-Hii All, I’m **Saumiyaa**✨, a passionate **Data Analyst** 📊 who thrives on turning complex data into actionable insights. I enjoy creating interactive dashboards and reports that transform numbers into meaningful stories for better decision-making. Skilled in SQL, Python, Power BI, Tableau, and Excel, I focus on uncovering patterns, trends, and KPIs that matter. I’m always eager to learn new tools and technologies to enhance my analytical skills and stay ahead in the field. Open to collaborations, I aim to leverage data to solve real-world problems and create impactful solutions.
+I’m **Saumiyaa**, a passionate **Data Analyst** who thrives on turning complex data into actionable insights.  
+I enjoy creating interactive dashboards and reports that transform numbers into meaningful stories for decision-making.  
+Skilled in **SQL, Python, Power BI, Tableau, and Excel**, I focus on uncovering patterns, trends, and KPIs that matter.  
+Always eager to learn new tools and technologies, I aim to leverage data to solve real-world problems and create impactful solutions.  
 
 ---
 
-## 🔭 Interests & Passions
+## 🔭 Interests
 
-- 🔍 **Data Analysis & Insight Discovery** – I love exploring datasets to uncover hidden patterns and trends that drive better decision-making.
-- 🎨 **Dashboard Design & Visualization** – Creating interactive dashboards that transform complex numbers into meaningful stories.
-- 🤝 **Team Collaboration & Knowledge Sharing** – I enjoy collaborating with teams and sharing insights to help others grow.
-- 🌱 **Machine Learning & AI Exploration** – Continuously learning new tools, algorithms, and AI techniques to enhance data-driven solutions.
-- 📊 **Business Intelligence & Strategy** – Leveraging data to guide business strategies and improve operational efficiency.
-- 💡 **Continuous Learning & Problem Solving** – Always curious, I enjoy tackling challenging problems and discovering innovative solutions.
+- **Data Analysis & Insight Discovery** – Exploring datasets to uncover patterns and trends  
+- **Dashboard Design & Visualization** – Creating interactive dashboards that tell stories  
+- **Collaboration & Knowledge Sharing** – Working with teams to solve problems  
+- **Machine Learning & AI Exploration** – Learning algorithms to enhance solutions  
+- **Business Intelligence & Strategy** – Using data to guide business growth  
 
 ---
 
 ## 🛠️ Skills
 
-### 📝 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-ffc107?style=for-the-badge&logo=power-bi&logoColor=black)
-
-### 🐍 Programming & Libraries
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🛠 Tools & Platforms
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-### 🔄 Data Processing & Workflow
-![ETL](https://img.shields.io/badge/ETL-4A90E2?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-8E44AD?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-27AE60?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-FF5733?style=for-the-badge&logo=airflow&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-DA4453?style=for-the-badge&logo=tableau&logoColor=white)
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Languages:** Python, SQL, DAX  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Scikit-learn  
+**Tools & Platforms:** Power BI, Tableau, Excel, GitHub, Jupyter, Google Colab  
+**Data Processing:** ETL, Data Modeling, Data Cleaning, Workflow Automation, Visualization  
+**Databases:** MySQL, MongoDB, PostgreSQL, SQL Server  
 
 ---
 
 ## 🌟 My Story
-- 🔍 I see every dataset as a **story waiting to be told** 📖
-- 📈 Obsessed with **simplifying complexity** through automation ⚡
-- ✍️ I create content that helps **early-career data professionals** 📚
-- 🧩 Always **learning, exploring, and building** 🚀
+
+- I see every dataset as a **story waiting to be told**  
+- Obsessed with **simplifying complexity** through automation  
+- I enjoy creating resources that help **early-career data professionals**  
+- Always learning, exploring, and building  
 
 ---
 
 ## 🏅 Certifications & Workshops
-📜 I love to **keep learning and growing** by attending **workshops, bootcamps, and certifications** to sharpen my data analytics skills. 📊  
 
-🎓 You can explore **All My certificates & workshop achievements** here 👇  
+📜 I continue to learn and grow through **workshops, bootcamps, and certifications** in data analytics.  
 
-[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Certifications/)  
-[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Workshop/)
+[![All Certificates](https://img.shields.io/badge/All%20Certificates-9370DB?style=for-the-badge&logo=read-the-docs)](Certifications/)  
+[![Workshop Certificates](https://img.shields.io/badge/Workshop%20Certificates-9370DB?style=for-the-badge&logo=read-the-docs)](Workshop/)  
 
-💡 Each certification helped me **level up** in:  
-✨ **Data Cleaning** 🧹 | **Visualization** 📊 | **Storytelling with Data** 📖  
-
-⚡ _Always exploring new tools, building dashboards, and unlocking insights from data!_ 🔑  
+Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**  
 
 ---
 
-## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> My GitHub Stats 
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-9370DB?logo=github&style=for-the-badge)
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=9370DB&rank_icon=github)
 
@@ -112,21 +81,23 @@ Hii All, I’m **Saumiyaa**✨, a passionate **Data Analyst** 📊 who thrives o
 ---
 
 ## 🤝 Let’s Collaborate
-I’m open to **collaborating on data, automation, or visualization projects** 🤝.  
 
-[![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](mailto:saumiyaakannan@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saumiyaa-t-k)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)  
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_saumi.teddy_/)
+I’m open to **collaborating on data, automation, or visualization projects** 🤝
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:saumiyaakannan@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saumiyaa-t-k)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SaumiyaaTK)  
 
 ---
 
 ## 🎯 Fun Fact
-💡 Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 🎨😄
+
+💡 Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 🎨😄  
 
 ---
 
-## 🚀 Thanks for stopping by!
+## 🚀 Thanks for Stopping By!
+
 🙏 Thank you for visiting my profile 💖  
 If you found something useful, consider giving a ⭐ to support my work!  
 
