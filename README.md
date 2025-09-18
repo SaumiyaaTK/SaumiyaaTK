@@ -8,7 +8,7 @@
 
 <!-- Purple-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7DDFDD&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning;Turning+Raw+Data+into+Insights" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning;Turning+Raw+Data+into+Insights" alt="typing animation" />
 </p>
 
 <!-- Subtitle -->
