@@ -8,12 +8,7 @@
 
 <!-- Purple-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning+&+Growth;" alt="LightBlue typing animation" />
-</p>
-
-<!-- Matrix-style animated intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=Simplifying+Complexity;Turning+raw+data+into+insights+%F0%9F%92%BB" alt="Matrix typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A020F0&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning+&+Growth;Turning+raw+data+into+insights" alt="LightBlue typing animation" />
 </p>
 
 <!-- Subtitle with India flag -->
@@ -22,25 +17,15 @@
   <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">
 </h3>
 
-<!-- Workspace image -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" alt="Coding at desk" width="480"/>
-</p>
+---
+
+## 🚀 About Me
+
+Hii All, I’m **Saumiyaa**✨, a passionate **Data Analyst** 📊 who thrives on turning complex data into actionable insights. I enjoy creating interactive dashboards and reports that transform numbers into meaningful stories for better decision-making. Skilled in SQL, Python, Power BI, Tableau, and Excel, I focus on uncovering patterns, trends, and KPIs that matter. I’m always eager to learn new tools and technologies to enhance my analytical skills and stay ahead in the field. Open to collaborations, I aim to leverage data to solve real-world problems and create impactful solutions.
 
 ---
 
-## 🧠 About Me
-
-- 🙋‍♀️ Hi, I'm a passionate Data Analyst
-- 💡 I love turning complex data into actionable insights
-- 🚀 Building interactive dashboards that tell stories
-- 📊 Transforming numbers into meaningful visualizations
-- 🌱 Always learning new tools & technologies
-- 🤝 Open to collaborations on analytics projects
-
----
-
-## 🌟 Interests & Passions
+## 🔭 Interests & Passions
 
 - 🔍 **Data Analysis & Insight Discovery** – I love exploring datasets to uncover hidden patterns and trends that drive better decision-making.
 - 🎨 **Dashboard Design & Visualization** – Creating interactive dashboards that transform complex numbers into meaningful stories.
@@ -51,7 +36,7 @@
 
 ---
 
-## 🛠️ My Toolbox
+## 🛠️ Skills
 
 ### 📝 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
