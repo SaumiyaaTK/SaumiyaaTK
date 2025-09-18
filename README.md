@@ -66,8 +66,8 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 
 📜 I continue to learn and grow through **workshops, bootcamps, and certifications** in data analytics.  
 
-[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Certifications/) 
-[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-9370DB?style=for-the-badge&logo=read-the-docs)](Workshop/)
+[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-7DDFDD?style=for-the-badge&logo=read-the-docs)](Certifications/) 
+[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-7DDFDD?style=for-the-badge&logo=read-the-docs)](Workshop/)
 
 Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**  
 
@@ -94,7 +94,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=9370DB&point=7DDFDD&area=true&hide_border=true" alt="GitHub Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=7DDFDD&point=7DDFDD&area=true&hide_border=true" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
