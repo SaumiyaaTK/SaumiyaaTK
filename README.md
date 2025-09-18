@@ -107,6 +107,18 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
   </tr>
 </table>
 
+# Saumiyaa GitHub 3D Stats
+
+Check out my interactive GitHub stats below:
+
+🌐 [View 3D Interactive Stats](https://<SaumiyaaTK>.github.io/<SaumiyaaTK>/)
+
+> Click the link to see 3D interactive charts for:
+> - GitHub Stats (Commits, PRs, Issues, Stars)
+> - Top Languages
+> - Activity Graph
+> - Top Contributed Repos
+
 ---
 
 ## 🤝 Let’s Collaborate
