@@ -17,6 +17,11 @@
    <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">
 </h3>
 
+<!-- Workspace image -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" alt="Coding at desk" width="480"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -40,11 +45,11 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 
 ## 🛠️ Skills
 
-**Languages:** Python, SQL, DAX  
-**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Scikit-learn  
-**Tools & Platforms:** Power BI, Tableau, Excel, GitHub, Jupyter, Google Colab  
-**Data Processing:** ETL, Data Modeling, Data Cleaning, Workflow Automation, Visualization  
-**Databases:** MySQL, MongoDB, PostgreSQL, SQL Server  
+- **Languages:** Python, SQL, DAX  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Scikit-learn  
+- **Tools & Platforms:** Power BI, Tableau, Excel, GitHub, Jupyter, Google Colab  
+- **Data Processing:** ETL, Data Modeling, Data Cleaning, Workflow Automation, Visualization  
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQL Server  
 
 ---
 
