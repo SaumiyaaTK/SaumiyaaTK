@@ -66,8 +66,8 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 
 📜 I continue to learn and grow through **workshops, bootcamps, and certifications** in data analytics.  
 
-[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-7DDFDD?style=for-the-badge&logo=read-the-docs)](Certifications/) 
-[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-7DDFDD?style=for-the-badge&logo=read-the-docs)](Workshop/)
+[![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-007BFF?style=for-the-badge&logo=read-the-docs)](Certifications/) 
+[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-007BFF?style=for-the-badge&logo=read-the-docs)](Workshop/)
 
 Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**  
 
@@ -78,7 +78,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=7DDFDD&rank_icon=github&token=PAT_1" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=007BFFrank_icon=github&token=PAT_1" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=7DDFDD&hide_border=true&token=PAT_1" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=007BFF&hide_border=true&token=PAT_1" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -94,7 +94,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=7DDFDD&point=7DDFDD&area=true&hide_border=true" alt="GitHub Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=007BFF&point=007BFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
@@ -102,7 +102,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=404040&icon_color=7DDFDD&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=404040&icon_color=007BFF&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
     </td>
   </tr>
 </table>
