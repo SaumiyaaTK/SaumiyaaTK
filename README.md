@@ -4,18 +4,12 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hello, I'm Saumiyaa</h1>
+<h1 align="center">Hello Everyone</h1>
 
 <!-- Purple-style animated intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning;Turning+Raw+Data+into+Insights" alt="typing animation" />
 </p>
-
-<!-- Subtitle -->
-<h3 align="center">
-  Data Analyst • Business Analyst • Data Storyteller from India
-   <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">
-</h3>
 
 <div align="center">
   <img src="https://github.com/SaumiyaaTK/SaumiyaaTK/blob/main/Banner.png" alt="Banner">
