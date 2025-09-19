@@ -59,20 +59,38 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 
 ## ✨ A Glimpse of My Dashboards 
 
-<p align="center">
-  <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
-  <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
-</p>
-
-<p align="center">
-  <img src="Fitness Tracker Screenshot.png" alt="Fitness Tracker Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
-  <img src="Factory Dashboard.png" alt="Equality Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
-</p>
-
-<p align="center">
-  <img src="Factory.png" alt="Factory Downtime Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
-  <img src="Jobaaj Dashboard Screenshot.png" alt="Amazon Sales Analytics Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Global University Ranking Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Pandemic Analysis Dashboard</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Fitness Tracker Screenshot.png" alt="Fitness Tracker Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Fitness Tracker Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="Factory Dashboard.png" alt="Equality Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Equality Dashboard</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Factory.png" alt="Factory Downtime Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Factory Downtime Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="Jobaaj Dashboard Screenshot.png" alt="Amazon Sales Analytics Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Amazon Sales Analytics Dashboard</b>
+    </td>
+  </tr>
+</table>
 
 --- 
 
