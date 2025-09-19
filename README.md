@@ -56,8 +56,8 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 ## 📊 Some of My Dashboard Creations  
 
 <p align="center">
-  <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
   <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
+  <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
 </p>
 
 <p align="center">
