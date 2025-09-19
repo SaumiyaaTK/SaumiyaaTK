@@ -49,7 +49,11 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Scikit-learn  
 - **Tools & Platforms:** Power BI, Tableau, Excel, GitHub, Jupyter, Google Colab  
 - **Data Processing:** ETL, Data Modeling, Data Cleaning, Workflow Automation, Visualization  
-- **Databases:** MySQL, MongoDB, PostgreSQL, SQL Server  
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQL Server
+
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/SaumiyaaTK/blob/main/Banner.png" alt="Banner">
+</div>
 
 ---
 
