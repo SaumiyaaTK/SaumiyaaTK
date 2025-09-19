@@ -19,10 +19,7 @@
 
 <!-- Workspace image -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" 
-       alt="Coding at desk" 
-       width="480" 
-       style="border: 2px solid #007bff; border-radius:10px;"/>
+   <img src="Banner.png" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
 </p>
 
 
