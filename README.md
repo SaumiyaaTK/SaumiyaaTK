@@ -56,20 +56,21 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 ## 📊 Some of My Dashboard Creations  
 
 <p align="center">
-  <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="45%"/>
-  <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="45%"/>
+  <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
+  <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
 </p>
 
 <p align="center">
-  <img src="Jobaaj Dashboard Screenshot.png" alt="Amazon Sales Analytics Dashboard" width="45%"/>
-  <img src="Fitness Tracker Screenshot.png" alt="Fitness Tracker Dashboard" width="45%"/>
+  <img src="Jobaaj Dashboard Screenshot.png" alt="Amazon Sales Analytics Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
+  <img src="Fitness Tracker Screenshot.png" alt="Fitness Tracker Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
 </p>
 
 <p align="center">
-  <img src="Factory.png" alt="Factory Downtime Dashboard" width="45%"/>
-  <img src="Factory Dashboard.png" alt="Equality Dashboard" width="45%"/>
+  <img src="Factory.png" alt="Factory Downtime Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
+  <img src="Factory Dashboard.png" alt="Equality Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
 </p>
 
+--- 
 
 ## 🌟 My Story
 
