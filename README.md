@@ -53,7 +53,7 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 
 ---
 
-## 📊 Some of My Dashboard Creations  
+## ✨ A Glimpse of My Dashboards 
 
 <p align="center">
   <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="45%" style="border:1px solid black; border-radius:8px;"/>
