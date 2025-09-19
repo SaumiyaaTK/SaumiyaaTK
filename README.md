@@ -17,12 +17,9 @@
    <img src="https://flagcdn.com/w40/in.png" width="20" alt="India Flag">
 </h3>
 
-<!-- Workspace image -->
-<p align="center">
-   <img src="Banner.png" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-</p>
-
-
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/SaumiyaaTK/blob/main/Banner.png" alt="Banner">
+</div>
 ---
 
 ## 🚀 About Me
