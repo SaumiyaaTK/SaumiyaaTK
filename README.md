@@ -51,11 +51,25 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 - **Data Processing:** ETL, Data Modeling, Data Cleaning, Workflow Automation, Visualization  
 - **Databases:** MySQL, MongoDB, PostgreSQL, SQL Server
 
-<div align="center">
-  <img src="https://github.com/SaumiyaaTK/SaumiyaaTK/blob/main/Banner.png" alt="Banner">
-</div>
-
 ---
+
+## 📊 Some of My Dashboard Creations  
+
+<p align="center">
+  <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="45%"/>
+  <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="Jobaaj Dashboard Screenshot.png" alt="Amazon Sales Analytics Dashboard" width="45%"/>
+  <img src="Fitness Tracker Screenshot.png" alt="Fitness Tracker Dashboard" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="Factory.png" alt="Factory Downtime Dashboard" width="45%"/>
+  <img src="Factory Dashboard.png" alt="Equality Dashboard" width="45%"/>
+</p>
+
 
 ## 🌟 My Story
 
