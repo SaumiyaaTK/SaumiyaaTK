@@ -82,7 +82,7 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
   </tr>
   <tr>
     <td align="center">
-      <img src="Factory.png" alt="Factory Downtime Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <img src="Factory.png" alt="Factory Based Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
       <b>Factory Downtime Dashboard</b>
     </td>
     <td align="center">
