@@ -65,18 +65,8 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
       <b>Fitness Tracker Dashboard</b>
     </td>
     <td align="center">
-      <img src="Factory Dashboard.png" alt="Equality Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-      <b>Equality Dashboard</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Factory.png" alt="Factory Based Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-      <b>Factory Downtime Dashboard</b>
-    </td>
-    <td align="center">
       <img src="Jobaaj Dashboard Screenshot.png" alt="Amazon Sales Analytics Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-      <b>Amazon Sales Analytics Dashboard</b>
+      <b>Equality Dashboard</b>
     </td>
   </tr>
 </table>
