@@ -51,7 +51,7 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <img src="Blinkit.png" alt="Blinkit Grocery Analysis" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
       <b>Global University Ranking Dashboard</b>
     </td>
     <td align="center">
@@ -65,7 +65,7 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
       <b>Fitness Tracker Dashboard</b>
     </td>
     <td align="center">
-      <img src="Jobaaj Dashboard Screenshot.png" alt="Amazon Sales Analytics Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
       <b>Equality Dashboard</b>
     </td>
   </tr>
