@@ -87,7 +87,7 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 📜 I continue to learn and grow through **workshops, bootcamps, and certifications** in data analytics.  
 
 [![All Certificates 🌟](https://img.shields.io/badge/All%20Certificates-%F0%9F%8C%9F-4d77cf?style=for-the-badge&logo=read-the-docs)](Certifications/) 
-[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-007BFF?style=for-the-badge&logo=read-the-docs)](Workshop/)
+[![Workshop Certificates 🌟](https://img.shields.io/badge/Workshop%20Certificates-%F0%9F%8C%9F-4d77cf?style=for-the-badge&logo=read-the-docs)](Workshop/)
 
 Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**  
 
