@@ -114,7 +114,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=007BFF&point=4d77cf&area=true&hide_border=true" alt="GitHub Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=4d77cf&point=4d77cf&area=true&hide_border=true" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
