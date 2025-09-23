@@ -8,7 +8,7 @@
 
 <!-- Purple-style animated intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007BFF&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning;Turning+Raw+Data+into+Insights" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4d77cf&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning;Turning+Raw+Data+into+Insights" alt="typing animation" />
 </p>
 
 <div align="center">
@@ -98,7 +98,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=007BFFrank_icon=github&token=PAT_1" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SaumiyaaTK&show_icons=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=000000&text_color=404040&icon_color=4d77cfrank_icon=github&token=PAT_1" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=007BFF&hide_border=true&token=PAT_1" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumiyaaTK&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=000000&text_color=404040&icon_color=4d77cf&hide_border=true&token=PAT_1" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=007BFF&point=007BFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaumiyaaTK&bg_color=00000000&color=404040&line=007BFF&point=4d77cf&area=true&hide_border=true" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
@@ -122,7 +122,7 @@ Focus Areas: **Data Cleaning | Visualization | Storytelling with Data**
 <table>
   <tr>
     <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=404040&icon_color=007BFF&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=SaumiyaaTK&limit=5&theme=flat&bg_color=00000000&title_color=000000&text_color=404040&icon_color=4d77cf&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
     </td>
   </tr>
 </table>
