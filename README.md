@@ -11,7 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4d77cf&center=true&vCenter=true&width=480&lines=Welcome+to+My+Journey+of+Learning;Turning+Raw+Data+into+Insights" alt="typing animation" />
 </p>
 
-
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/SaumiyaaTK/blob/main/Banner.png" alt="Banner">
+</div>
 
 ---
 
