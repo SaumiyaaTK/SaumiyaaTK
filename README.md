@@ -61,8 +61,8 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
   </tr>
   <tr>
     <td align="center">
-      <img src="Fitness Tracker.png" alt="Fitness Tracker" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-      <b>Fitness Tracker</b>
+      <img src="Fitness Tracker.png" alt="Fitness Tracker Analysis" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Fitness Tracker Analysis</b>
     </td>
     <td align="center">
       <img src="Global Ranking Analysis.png" alt="University Ranking Analysis" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
