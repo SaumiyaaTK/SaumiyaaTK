@@ -51,21 +51,21 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Blinkit.png" alt="Blinkit Grocery Analysis" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <img src="Blinkit Grocery Analysis.png" alt="Blinkit Grocery Analysis" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
       <b>Blinkit Grocery Analysis</b>
     </td>
     <td align="center">
-      <img src="Pandemic Screenshot.png" alt="Pandemic Analysis Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <img src="Pandemic Analysis.png" alt="Pandemic Analysis Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
       <b>Pandemic Analysis Dashboard</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Fitness Tracker Screenshot.png" alt="Fitness Tracker Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <img src="Fitness Tracker.png" alt="Fitness Tracker Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
       <b>Fitness Tracker Dashboard</b>
     </td>
     <td align="center">
-      <img src="Ranking Screenshot.png" alt="Global University Ranking Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <img src="Global Ranking Analysis.png" alt="Global University Ranking Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
       <b>Global University Ranking Dashboard</b>
     </td>
   </tr>
