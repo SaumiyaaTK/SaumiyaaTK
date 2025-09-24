@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">👋 Hello Everyone</h1>
+<h1 align="center">Hello Everyone 👋</h1>
 
 <!-- Purple-style animated intro -->
 <p align="center">
