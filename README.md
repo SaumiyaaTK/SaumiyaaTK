@@ -55,18 +55,18 @@ Always eager to learn new tools and technologies, I aim to leverage data to solv
       <b>Blinkit Grocery Analysis</b>
     </td>
     <td align="center">
-      <img src="Pandemic Analysis.png" alt="Pandemic Analysis Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-      <b>Pandemic Analysis Dashboard</b>
+      <img src="Pandemic Analysis.png" alt="Pandemic Analysis" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Pandemic Analysis</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Fitness Tracker.png" alt="Fitness Tracker Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-      <b>Fitness Tracker Dashboard</b>
+      <img src="Fitness Tracker.png" alt="Fitness Tracker" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>Fitness Tracker</b>
     </td>
     <td align="center">
-      <img src="Global Ranking Analysis.png" alt="Global University Ranking Dashboard" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
-      <b>Global University Ranking Dashboard</b>
+      <img src="Global Ranking Analysis.png" alt="University Ranking Analysis" width="400" style="border:1px solid black; border-radius:8px;"/><br/>
+      <b>University Ranking Analysis</b>
     </td>
   </tr>
 </table>
